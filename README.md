@@ -15,3 +15,4 @@ Users can input customer details (age, income, purchases, visits, etc.) and the 
 - Scikit-Learn
 - Matplotlib
 - Streamlit
+---
